@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+input {
+    width: 500px;
+    color: #696e79;
+}
